@@ -1,6 +1,6 @@
 hello
 
-i am interested in learning some computational methodologies for disease research 😃
+i am interested in learning computing to augment my research in human biology 😃
 
 E: roberttan484@gmail.com
 
