@@ -1,5 +1,9 @@
 hello
 
+i am interested in learning some computational methodologies for disease research 😃
+
+E: roberttan484@gmail.com
+
 <!--
 **RobertT4n/RobertT4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
