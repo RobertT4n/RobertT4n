@@ -1,6 +1,6 @@
 hello!
 
-i am interested in learning computing to augment my research in human biology 😃
+i am interested in learning computing to augment my research in human biology 🧬🧪🔬
 
 <!--
 **RobertT4n/RobertT4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
